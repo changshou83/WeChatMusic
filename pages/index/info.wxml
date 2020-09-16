@@ -1,0 +1,72 @@
+<view style="background:#333;color:#ccc;height:100%;">
+    <scroll-view class="content-info" scroll-y>
+        <swiper class="content-info-slide"  indicator-color="rgba(225,225,225,.5)" autoplay circular indicator-dots indicator-active-color="#fff">
+            <swiper-item>
+                <image src="http://p1.music.126.net/jjxZ0vZxmmKgB4yAkHno4A==/109951165039826320.jpg?imageView&quality=89"></image>
+            </swiper-item>
+            <swiper-item>
+                <image src="http://p1.music.126.net/7XgfJP6ZrHOhb4rfFava4w==/109951165039992796.jpg?imageView&quality=89"></image>
+            </swiper-item>
+            <swiper-item>
+                <image src="http://p1.music.126.net/vhn35mv4_kw6u0yNCvtG1Q==/109951165038927533.jpg?imageView&quality=89"></image>
+            </swiper-item>
+    </swiper>
+    <view class="content-info-portal">
+        <view>
+            <image src="/images/01.png"></image>
+            <text>私人FM</text>
+        </view>
+        <view>
+            <image src="/images/02.png"></image>
+            <text>每日歌曲推荐</text>
+        </view>
+        <view>
+            <image src="/images/03.png"></image>
+            <text>云音乐新歌榜</text>
+        </view>
+    </view>
+    <view class="content-info-list">
+        <view class="list-title">
+            快乐歌单
+        </view>
+        <view class="list-inner">
+            <view class="list-item">
+                <image src="http://p3.music.126.net/EGlk_xp0Bny0DtskyRz1AA==/109951164941089740.jpg?param=200y200"/>
+                <view>
+                    学习歌单～（超安静纯音）
+                </view>
+            </view>
+            <view class="list-item">
+                <image src="http://p4.music.126.net/LJsMADNvkK_0ilmXbKg_TQ==/109951164809294621.jpg?param=200y200"/>
+                <view>
+                    极光轻音乐 | 与星空同眠
+                </view>
+            </view>
+            <view class="list-item">
+                <image src="http://p3.music.126.net/hnu57kRRqzOBunZc2tJTUQ==/109951164895631294.jpg?param=200y200"/>
+                <view>
+                    淦
+                </view>
+            </view>
+            <view class="list-item">
+                <image src="http://p3.music.126.net/kR4V8R2Bu_pfuGboreeaGw==/109951164942702378.jpg?param=200y200"/>
+                <view>
+                    你搜不到的宝藏系列
+                </view>
+            </view>
+            <view class="list-item">
+                <image src="http://p4.music.126.net/pMVnViboITvn_KDmcfoaEA==/109951164873911421.jpg?param=200y200"/>
+                <view>
+                   嘘，请安静（作业/读书/夜晚/氛围）
+                </view>
+            </view>
+            <view class="list-item">
+                <image src="http://p4.music.126.net/CJSYuqYyaZKC5FZWhtPj0g==/109951164954716158.jpg?param=200y200"/>
+                <view>
+                   「汤 姆·哈 迪 专 属」
+                </view>
+            </view>
+        </view>
+    </view>
+    </scroll-view>
+</view>
